@@ -1,7 +1,7 @@
 div{
     background-color: aliceblue;
     width: 300px;
-    border: 15px solid green;
+    border: 15px double green;
     padding: 50px ;
     margin: 30px;
 }
